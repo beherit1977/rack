@@ -25,5 +25,4 @@ class TimeFormatHandler
   def success?
     @wrong_output.empty?
   end
-
 end
